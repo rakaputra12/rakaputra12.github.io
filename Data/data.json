@@ -11,6 +11,7 @@
     "total": 114096232477.6,
     "percent": 18.6,
     "to": "United States",
+    "curvature": 0.3,
     "label": {
         "position": "55%"
     }
@@ -19,6 +20,7 @@
     "total": 77802181209.0,
     "percent": 11.2,
     "to": "China",
+    "curvature": 0.3,
     "label": {
         "anchor": "topRight",
         "position": "50%"
@@ -28,6 +30,7 @@
     "total": 49875589451.4,
     "percent": 9.53,
     "to": "China",
+    "curvature": 0.5,
     "label": {
         "position": "60%"
     }
@@ -54,7 +57,7 @@
     "total": 19252386664.0,
     "percent": 6.59,
     "to": "China",
-    "curvature": 0,
+    "curvature": 0.6,
     "label": {
         "anchor": "top"
     }
@@ -81,6 +84,7 @@
     "total": 33512947409.2,
     "percent": 3.28,
     "to": "Germany",
+    "curvature": 0.5,
     "label": {
         "anchor": "bottom",
         "offsetY": 3,
