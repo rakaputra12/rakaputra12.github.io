@@ -21,10 +21,10 @@
     "total": 77802181209.0,
     "percent": 11.2,
     "to": "China",
-    "curvature": 0.3,
+    "curvature": 0.35,
     "label": {
-        "anchor": "topRight",
-        "position": "50%"
+        "position": "45%",
+        "anchor": "top"
     }
 }, {
     "points": [55.751244, 37.618423, 39.904202, 116.407394],
@@ -33,7 +33,7 @@
     "to": "China",
     "curvature": 0.7,
     "label": {
-        "position": "60%"
+        "position": "50%"
     }
 }, {
     "points": [38.89511, -77.03637, 19.432608, -99.133209],
