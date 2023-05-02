@@ -3,9 +3,7 @@
     "total": 103976606636.7,
     "percent": 22,
     "to": "China",
-    "curvature": 0,
     "label": {
-        "position": "55%",
         "anchor": "bottom"
     }
 }, {
@@ -13,7 +11,6 @@
     "total": 114096232477.6,
     "percent": 18.6,
     "to": "United States",
-    "curvature": 0,
     "label": {
         "position": "55%"
     }
@@ -22,19 +19,15 @@
     "total": 77802181209.0,
     "percent": 11.2,
     "to": "China",
-    "curvature":0,
     "label": {
         "anchor": "topRight",
-        "position": "50%",
-        "offsetY": -5,
-        "offsetX": 0
+        "position": "50%"
     }
 }, {
     "points": [55.751244, 37.618423, 39.904202, 116.407394],
     "total": 49875589451.4,
     "percent": 9.53,
     "to": "China",
-    "curvature": 0,
     "label": {
         "position": "60%"
     }
@@ -45,9 +38,7 @@
     "to": "Mexico",
     "curvature": -0.4,
     "label": {
-        "anchor": "topLeft",
-        "offsetX": 10,
-        "offsetY": 5
+        "anchor": "topLeft"
     }
 }, {
     "points": [24.710437, 46.675164, 39.904202, 116.407394],
@@ -65,9 +56,7 @@
     "to": "China",
     "curvature": 0,
     "label": {
-        "anchor": "top",
-        "position": "70%",
-        "offsetY": -3
+        "anchor": "top"
     }
 }, {
     "points": [-33.447487, -70.673676, 39.904202, 116.407394],
@@ -76,8 +65,7 @@
     "to": "China",
     "curvature": 0.5,
     "label": {
-        "anchor": "leftBottom",
-        "offsetX": -5
+        "anchor": "leftBottom"
     }
 }, {
     "points":[19.432608, -99.133209, 38.89511, -77.03637],
@@ -93,7 +81,6 @@
     "total": 33512947409.2,
     "percent": 3.28,
     "to": "Germany",
-    "curvature": 0,
     "label": {
         "anchor": "bottom",
         "offsetY": 3,
